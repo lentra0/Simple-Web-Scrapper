@@ -15,7 +15,7 @@ You can use precompiled binary or build it yourself.
 
 1) Run a compiled binary in Linux:
 ```bash
-$ ./SimpleWebScraper
+./SimpleWebScraper
 ```
 
 2) Build yourself with example 'CMakeLists.txt' if you have dependences installed on your system:
