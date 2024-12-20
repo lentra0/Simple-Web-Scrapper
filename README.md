@@ -11,6 +11,7 @@ I'm not really into CMake so everything was included manually.
 If using CLion, just install them with vcpkg and specify the path as in 'CMakeLists.txt'.
 
 ## Usage
+You can use precompiled binary or build it yourself.
 
 1) Run a compiled binary in Linux:
 ```bash
